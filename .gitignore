@@ -8,7 +8,5 @@ __pycache__/
 # downloaded book text
 data/
 
-# generated benchmark output (commit nothing from results/ by default)
+# generated benchmark output (do not commit json, but commit graphs and dashboard)
 results/*.json
-results/*.png
-results/*.html
