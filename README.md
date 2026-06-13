@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ### Configure
 
-Copy `.env.example` to `.env` and fill in your keys:
+Copy this to `.env` and fill in your keys:
 
 ```
 MOSS_PROJECT_ID=your_project_id
