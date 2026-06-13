@@ -120,7 +120,7 @@ moss-benchmark/
   run_benchmark.py    # entry point, orchestrates all benchmarks
   visualize.py        # generates graphs and interactive dashboard
   requirements.txt
-  .env.example
+  .env
 ```
 
 ---
