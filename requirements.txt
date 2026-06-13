@@ -1,0 +1,9 @@
+inferedge-moss
+pinecone-client
+faiss-cpu
+sentence-transformers
+numpy
+matplotlib
+requests
+tqdm
+python-dotenv

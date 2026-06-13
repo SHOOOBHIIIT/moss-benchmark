@@ -1,0 +1,22 @@
+QUERIES = [
+    {"q": "What is Mr. Darcy's first impression of Elizabeth Bennet?", "keyword": "tolerable"},
+    {"q": "How does Mrs. Bennet react to news of Mr. Bingley?", "keyword": "Bingley"},
+    {"q": "What happens at the Netherfield ball?", "keyword": "Netherfield"},
+    {"q": "What is Wickham's secret history with Darcy?", "keyword": "Wickham"},
+    {"q": "How does Elizabeth feel after reading Darcy's letter?", "keyword": "letter"},
+    {"q": "What does Pemberley estate look like?", "keyword": "Pemberley"},
+    {"q": "How does Lydia elope with Wickham?", "keyword": "elope"},
+    {"q": "What does Lady Catherine say to Elizabeth?", "keyword": "Lady Catherine"},
+    {"q": "How does Darcy's first marriage proposal go wrong?", "keyword": "proposal"},
+    {"q": "What is Mr. Collins like as a character?", "keyword": "Collins"},
+    {"q": "Why does Charlotte Lucas accept Mr. Collins?", "keyword": "Charlotte"},
+    {"q": "How is Jane Bennet described?", "keyword": "Jane"},
+    {"q": "What is Mr. Bennet's attitude toward his family?", "keyword": "daughters"},
+    {"q": "What role does Caroline Bingley play?", "keyword": "Caroline"},
+    {"q": "How does Elizabeth's opinion of Darcy change?", "keyword": "prejudice"},
+    {"q": "How does Darcy secretly help resolve the Lydia situation?", "keyword": "Lydia"},
+    {"q": "How does Bingley finally propose to Jane?", "keyword": "proposal"},
+    {"q": "Who are the Gardiners and what is their role?", "keyword": "Gardiner"},
+    {"q": "How does the novel conclude?", "keyword": "married"},
+    {"q": "What is Elizabeth's impression of Rosings Park?", "keyword": "Rosings"}
+]
